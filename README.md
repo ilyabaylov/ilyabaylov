@@ -6,7 +6,7 @@
 I build Telegram bots and business automations — bookings & no-show reminders,
 lead capture and customer support.
 
-🛠️ Python · aiogram · SQLAlchemy · FastAPI · n8n · Google Gemini · Docker · PostgreSQL/SQLite
+🛠️ Python · aiogram · SQLAlchemy · FastAPI · n8n · Google Gemini · OpenAI · Claude · DeepSeek · Docker · PostgreSQL/SQLite
 
 - 🔭 Развиваю пет-проекты с упором на пользу и измеримый результат
 - 🌱 Углубляюсь в чистую архитектуру, тесты и асинхронность
@@ -19,4 +19,4 @@ lead capture and customer support.
 ### 📫 Контакты · Contacts
 - Telegram — @baylov93
 - Email — aimbaylov@gmail.com
-- LinkedIn — linkedin.com/in/<username>
+- LinkedIn — linkedin.com/in/ilyabaylov
