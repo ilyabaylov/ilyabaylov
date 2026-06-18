@@ -13,8 +13,7 @@ lead capture and customer support.
 - 📍 Казахстан · открыт к удалёнке / open to remote
 
 ### 🚀 Проекты · Projects
-- **ZapisBot** — бот онлайн-записи с напоминаниями за 24ч и 2ч, снижает неявки. `Python · aiogram · SQLAlchemy`
-- **LeadCatcher** *(скоро · soon)* — захват и AI-квалификация заявок. `n8n · Gemini`
+- **[support-ai-bot](https://github.com/ilyabaylov/support-ai-bot)** — AI-администратор салона красоты: отвечает по базе знаний (RAG + Gemini), понимает голосовые, сложные запросы передаёт живому оператору. `Python · aiogram · Gemini · Docker`
 
 ### 📫 Контакты · Contacts
 - Telegram — @baylov93
