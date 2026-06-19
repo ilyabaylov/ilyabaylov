@@ -14,6 +14,7 @@ lead capture and customer support.
 
 ###  Проекты · Projects
 - **[support-ai-bot](https://github.com/ilyabaylov/support-ai-bot)** — AI-администратор салона красоты: отвечает по базе знаний (RAG + Gemini), понимает голосовые, сложные запросы передаёт живому оператору. `Python · aiogram · Gemini · Docker`
+- **[Beauty Monitor Bot](https://github.com/ilyabaylov/beauty-monitor-bot)** — мониторинг бьюти-ниши: посты конкурентов, блогеров и афиш из соцсетей → дайджест в Telegram и VK. Клиентский проект, в репозитории — кейс без кода. `Python · aiogram · vkbottle · Apify`
 
 ###  Контакты · Contacts
 - Telegram — @baylov93
