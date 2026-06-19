@@ -19,6 +19,8 @@ lead capture and customer support.
 
 - [**1С Автоматизация**](https://github.com/ilyabaylov/1c-reporting-automation.git) — десктоп-приложение для автоматизации отчётности в 1С: регистрация облагаемой базы, отражение зарплаты в бухучёте, формирование и автоотправка отчётов в ФНС (ЗУП + Бухгалтерия) с пошаговым пайплайном и логами в реальном времени. `Python · Selenium · 1С:Предприятие`
 
+- [**tldr-bot**](https://github.com/ilyabaylov/tldr-bot) — AI-выжимка из чего угодно: текст, ссылки, YouTube, PDF и голосовые → краткий конспект в 5 форматах (TL;DR, тезисы, идеи, действия, простыми словами), вопросы по материалу и экспорт в `.md`. Подключаемые LLM-провайдеры. `Python · aiogram · OpenAI · Gemini`
+
 ###  Контакты · Contacts
 - Telegram — @baylov93
 - Email — aimbaylov@gmail.com
